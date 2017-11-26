@@ -1,3 +1,7 @@
+/*
+	Autor: Jan Tatarynowicz, 204437
+*/
+
 import java.util.*;
 import java.io.*;
 
